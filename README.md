@@ -31,5 +31,3 @@ Parallel used in this project:
 
 After cloning the repository, run the main.py file.
 Follow the on-screen instructions carefully. Each stage may take a few seconds to complete because it's dealing with a large set of data.
-
-For a better understanding of how the code works, refer to the report included in the project directory.
